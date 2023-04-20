@@ -11,7 +11,9 @@ int main()
     if(x>y)
     {
             cout<<"x is greater"<<endl;
+    }
     else
+    {
             cout<<"y is greater"<<endl;
     }
     return 0;
